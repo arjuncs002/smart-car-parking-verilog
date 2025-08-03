@@ -17,7 +17,6 @@ This project implements a smart car parking controller in **Verilog HDL** using 
 ## Tools Used
  Verilog HDL
  Vivado (for simulation)
- GTKWave / VCD file viewer
 
-## 👨‍💻 Author
-[Arjun C S]
+## Author
+Arjun C S
